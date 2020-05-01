@@ -1,0 +1,1 @@
+clubs = ['Barcelona', 'Real Madrid', 'Sporting', 'Benfica', 'Porto', 'Liverpool']
